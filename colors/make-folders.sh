@@ -5,7 +5,7 @@ for theme in '-blue' '-purple' '-pink' '-red' '-orange' '-yellow' '-green' '-tea
     if [[ "$type" == '-nord' ]]; then
       case "$theme" in
         -blue)
-          folder_color='#89a3c2'
+          folder_color='#f5c2e7'
           ;;
         -purple)
           folder_color='#c89dbf'
